@@ -1,0 +1,2 @@
+# JavaScriptGrind
+JavaScript learning session
