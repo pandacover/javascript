@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #242424;
+  display: flex;
+  flex-flow: column;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+
+.dice-wrapper {
+  display: flex;
+}
+
+.dice {
+  background: rgb(252, 0, 0);
+  width: 100px;
+  height: 100px;
+  margin: 10px 10px;
+  display: none;
+}
+
+.show {
+  display: inline-block;
+}
+
+.title-txt {
+  color: #fff;
+  margin: 50px 0;
+}
